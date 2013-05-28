@@ -71,6 +71,4 @@ public class ConvertAngle {
 		degrees[2] = (nonComponentDegrees - degrees[0] - degrees[1] / 60) * 3600;
 		return degrees;
 	}
-	
-
-	}
+}
