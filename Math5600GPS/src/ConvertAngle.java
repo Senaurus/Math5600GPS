@@ -1,8 +1,3 @@
-/**
- * Author: 	Arthur V. Stefanishin
- * Date :	2013/05/28
- */
-
 import java.lang.Math;
 
 public class ConvertAngle {
